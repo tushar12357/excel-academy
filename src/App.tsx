@@ -122,10 +122,7 @@ function App() {
 
         {/* Contact Information */}
         <section className="bg-blue-700 text-white rounded-lg shadow-md p-6">
-          <div className="flex items-center gap-2 mb-6">
-            <Phone className="text-yellow-300" />
-            <h2 className="text-2xl font-semibold">Contact Us</h2>
-          </div>
+          
 
           <div className="grid md:grid-cols-2 gap-6">
             <div>
