@@ -172,7 +172,7 @@ function App() {
       <footer className="bg-blue-800 text-white py-4">
         <div className="container mx-auto px-4 text-center">
           <p>© 2025 Excel Academy. All Rights Reserved.</p>
-          <p className="text-blue-200 text-sm mt-1">Empowering students to achieve academic excellence since 2010</p>
+          <p className="text-blue-200 text-sm mt-1">Empowering students to achieve academic excellence since 2020</p>
         </div>
       </footer>
     </div>
